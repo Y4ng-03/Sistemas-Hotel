@@ -1,4 +1,4 @@
-# 🏨 Gran Casino Hotel - Sistema de Gestión Hotelera (PMS & POS)
+# 🏨 Sistema de Gestión Hotelera (PMS & POS)
 
 Sistema integral de gestión para hoteles, suites y restaurantes con interfaz moderna de alto rendimiento (*glassmorphism*), panel administrativo, control de ocupación en tiempo real y facturación multimoneda (USD / Bs) con cálculo de tributos legales (IGTF e INATUR).
 
